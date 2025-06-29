@@ -9,8 +9,8 @@ Features ✨
 * Delete Tasks: Remove tasks you no longer need.
 * Organize: Sort tasks by priority, due date, or completion status.
 * User-Friendly Interface: Clean and intuitive design for seamless navigation.
-Technologies Used 💻
 
+Technologies Used 💻
 * Frontend: HTML, CSS
 * Backend: JavaScript 
 
