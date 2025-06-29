@@ -15,4 +15,5 @@ Technologies Used 💻
 * Backend: JavaScript 
 
 Why This App? 🤔
+
 Life can get overwhelming, but staying organized doesn’t have to be. This app is built with simplicity and functionality in mind, helping you focus on what truly matters. Whether you're a student, professional, or just someone who loves checking off lists, this app is for you.
